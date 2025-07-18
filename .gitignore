@@ -1,0 +1,14 @@
+# Node modules (only needed if you use Express backend)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
