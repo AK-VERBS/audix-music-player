@@ -29,10 +29,6 @@ audix-music-player/
 └── playing.gif
 
 
-## 🌐 Live Demo (GitHub Pages)
-
-➡️ [Click here to view](https://fictional-bassoon-q74vpvj9jrqj3gvx-3000.app.github.dev/)
-
 ## 👨‍💻 Developer
 
 - **Aakash Laha**
