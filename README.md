@@ -28,6 +28,9 @@ audix-music-player/
 ├── audix.png
 └── playing.gif
 
+DEMO
+https://audix-music-player.onrender.com
+
 
 ## 👨‍💻 Developer
 
